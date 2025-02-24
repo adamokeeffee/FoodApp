@@ -23,10 +23,6 @@ public class Fries implements Food {
         this.price = price;
     }
 
-    public String getDescription() {
-        return description;
-    }
-
     public void setDescription(String description) {
         this.description = description;
     }
